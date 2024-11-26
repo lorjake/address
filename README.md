@@ -1,4 +1,4 @@
 # address
 
 
- server domain = 127.0.0.1:8080
+ server domain = 0.0.0.0:8080
